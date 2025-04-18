@@ -14,7 +14,7 @@ const personalities = {
         channel: 'https://t.me/gospartian',
         dm: 'https://t.me/gospartian',
         category: 'top',
-        badge: 'badge-top',Согласно
+        badge: 'badge-top',
         badgeText: 'Рабыня',
         img: 'https://i.ytimg.com/vi/HXsM2RidYEk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAEzg68rrZczF1a6i8nbhxDz_SjlA'
     },
